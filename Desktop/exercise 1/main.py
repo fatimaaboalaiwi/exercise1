@@ -1,2 +1,2 @@
-def subtract(x,y):
- return x-y
+def multiply(a,b):
+    a*b
